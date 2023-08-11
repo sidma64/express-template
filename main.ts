@@ -1,6 +1,5 @@
 import express, { Request, Response } from 'express';
 import logger from 'morgan';
-import path from 'path';
 
 const app = express();
 const port = 3000;
